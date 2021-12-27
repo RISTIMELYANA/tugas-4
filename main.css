@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*first-line {
     background-color: greenyellow;
     text-align:center;
@@ -92,3 +93,99 @@
     margin-top: 15px;
   }
   
+=======
+/*first-line {
+    background-color: greenyellow;
+    text-align:center;
+  }
+#firstname{
+    background-color: goldenrod;
+    text-align:center;
+}
+.black-text{
+    background-color: goldenrod;
+    text-align:center;
+}*/
+/*{
+
+  background-color: cornflowerblue;
+  text-align:center;
+}*/
+/*:horizontal{
+    border-color: black;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-width: 15px;
+    border-style: none;
+}*/
+
+/*body {
+    background-color: cornflowerblue;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: blue;
+    text-align: center;
+  
+  }*/
+  /*.navbar {
+    max-width: 500px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-right: auto;
+  }*/
+  /*.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: 0;
+    background-color: #333;
+
+  }*/
+  /*.navbar .ul .li{
+    float : left;
+    
+  }*/
+ /*.navbar{
+    display: block;
+    text-align: center;
+    padding: 14px, 16px;
+    text-decoration: none;
+    color: white;
+  }*/
+  /*li{
+    float: right;
+  }
+  .navbar .li .ul{
+    background-color: black;
+  }*/
+/*{
+  padding :0;
+  margin  :0;
+}*/
+/*.tr {
+  border-width: 1px;
+  max-width:500px ;
+  background-color: rgb(26, 190, 231);
+  text-align: white;
+}
+.td{
+  border-width: 1px;
+  max-width:500px ;
+  background-color: #333;
+  text-align: left;
+  padding: 15px;
+
+}*/
+/*.footer{
+    background-color: #333;
+    padding:10px;
+    text-align: center;
+    color:white;
+    margin-top: 15px;
+  }
+  
+>>>>>>> 16a5b154be2440e0c3b3ca945ba65eec705ef9a4
