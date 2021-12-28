@@ -1,4 +1,4 @@
-/*first-line {
+first-line {
     background-color: greenyellow;
     text-align:center;
   }
@@ -9,13 +9,18 @@
 .black-text{
     background-color: goldenrod;
     text-align:center;
-}*/
-/*{
+}
+.h1{
+  color: black;
+  text-align: center;
 
+}
+
+h1,h2,h3,h4,h5,h6{
   background-color: cornflowerblue;
   text-align:center;
-}*/
-/*:horizontal{
+}
+:horizontal{
     border-color: black;
     text-align: center;
     font-size: 20px;
@@ -23,9 +28,9 @@
     margin-left: 50px;
     border-width: 15px;
     border-style: none;
-}*/
+}
 
-/*body {
+body {
     background-color: cornflowerblue;
   }
   
@@ -33,44 +38,65 @@
     color: blue;
     text-align: center;
   
-  }*/
-  /*.navbar {
+  }
+  .navbar {
     max-width: 500px;
     margin-top: 0;
     margin-bottom: 0;
     margin-right: auto;
     margin-right: auto;
-  }*/
-  /*.navbar{
+  }
+  .navbar{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: 0;
     background-color: #333;
+    text-align: center;
 
-  }*/
-  /*.navbar .ul .li{
-    float : left;
+  }
+  .id{
+    margin: 200px;
+    align-items:stretch;
+    text-align:left ;
+    text-size-adjust: 50px;
     
-  }*/
- /*.navbar{
+  }
+  .navbar .ul .li{
+    float : left;
+  
+  }
+  .navbar li{
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  color: black;
+  font-size: 20px;
+  }
+  .navbar a{
     display: block;
     text-align: center;
-    padding: 14px, 16px;
+    padding: 16px;
     text-decoration: none;
     color: white;
-  }*/
-  /*li{
+  }
+  li{
     float: right;
+    text-align:left;
+    font-family: verdana;
+    font-size: 14px;
+    text-align-last:left;
+
   }
   .navbar .li .ul{
     background-color: black;
-  }*/
-/*{
+  }
+ .navbar .tr .td{
   padding :0;
   margin  :0;
-}*/
-/*.tr {
+}
+.tr {
   border-width: 1px;
   max-width:500px ;
   background-color: rgb(26, 190, 231);
@@ -83,8 +109,8 @@
   text-align: left;
   padding: 15px;
 
-}*/
-/*.footer{
+}
+.footer{
     background-color: #333;
     padding:10px;
     text-align: center;
@@ -92,3 +118,36 @@
     margin-top: 15px;
   }
   
+  .sticky{
+    background : rgb(157, 122, 190);
+    position: sticky;
+    top : 0px;
+  }
+  .fix{
+    position: fixed;
+    width:100%;
+    top:0;
+    left:0;
+    bottom: 0;
+  }
+.div .form-register{
+  position: static;
+  margin-bottom: 40px;
+}
+.content-form{
+  max-width: 70%;
+  margin: auto;
+}
+.div .form-login {
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  height: 90vh;
+  margin-bottom: 100px;
+}
+.form-contant{
+  display :flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
